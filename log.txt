@@ -1,0 +1,18 @@
+Checking Code: 678202
+Fail
+--------------
+Checking Code: 691565
+Fail
+--------------
+Checking Code: 706152
+Fail
+--------------
+Checking Code: 704995
+Fail
+--------------
+Checking Code: 700374
+Fail
+--------------
+Checking Code: 701903
+Fail
+--------------
